@@ -1,5 +1,7 @@
 # Covid 19 Data Analysis Visualisation
 
+- Tools used **PowerBI**
+
 - Extracted Data from an API
 
 - Done the transformation of data
